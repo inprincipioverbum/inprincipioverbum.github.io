@@ -1,4 +1,4 @@
-# Theory of Everything | [Huanyu Shi's Blog](https://huanyushi.github.io/) 
+# Theory of Everything | [Chipy's Blog](https://inprincipioverbum.github.io/) 
 
 This site is made with [Jekyll](https://jekyllrb.com/) using the beautiful [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/) theme. Thanks to the contributors for their work.
 

@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://inprincipioverbum.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2024-06-23T02:39:55-03:00</updated>
+  <updated>2024-06-23T02:48:57-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
-    <uri>https://inprincipioverbum.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://inprincipioverbum.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="pt_BR"
-    href="https://inprincipioverbum.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 In Principio Verbum </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>As 7 regras de Vicente Falconi</title>
-    <link href="https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/" rel="alternate" type="text/html" title="As 7 regras de Vicente Falconi" />
+    <link href="http://localhost:4000/posts/as-7-regras-de-vicente-falconi/" rel="alternate" type="text/html" title="As 7 regras de Vicente Falconi" />
     <published>2024-06-22T15:46:33-03:00</published>
   
     <updated>2024-06-22T15:46:33-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/</id>
-    <content src="https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/" />
+    <id>http://localhost:4000/posts/as-7-regras-de-vicente-falconi/</id>
+    <content src="http://localhost:4000/posts/as-7-regras-de-vicente-falconi/" />
     <author>
       <name>araguaci</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>O Papel da Educação na Prevenção das Drogas</title>
-    <link href="https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" rel="alternate" type="text/html" title="O Papel da Educação na Prevenção das Drogas" />
+    <link href="http://localhost:4000/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" rel="alternate" type="text/html" title="O Papel da Educação na Prevenção das Drogas" />
     <published>2024-06-20T23:04:24-03:00</published>
   
     <updated>2024-06-20T23:04:24-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/</id>
-    <content src="https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" />
+    <id>http://localhost:4000/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/</id>
+    <content src="http://localhost:4000/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" />
     <author>
       <name>araguaci</name>
     </author>
@@ -69,13 +69,13 @@
   
   <entry>
     <title>Vidas Destruídas</title>
-    <link href="https://inprincipioverbum.github.io/posts/vidas-destru%C3%ADdas/" rel="alternate" type="text/html" title="Vidas Destruídas" />
+    <link href="http://localhost:4000/posts/vidas-destru%C3%ADdas/" rel="alternate" type="text/html" title="Vidas Destruídas" />
     <published>2024-06-20T23:01:18-03:00</published>
   
     <updated>2024-06-20T23:01:18-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/vidas-destru%C3%ADdas/</id>
-    <content src="https://inprincipioverbum.github.io/posts/vidas-destru%C3%ADdas/" />
+    <id>http://localhost:4000/posts/vidas-destru%C3%ADdas/</id>
+    <content src="http://localhost:4000/posts/vidas-destru%C3%ADdas/" />
     <author>
       <name>araguaci</name>
     </author>
@@ -95,13 +95,13 @@
   
   <entry>
     <title>O Poder Usurpado</title>
-    <link href="https://inprincipioverbum.github.io/posts/o-poder-usurpado/" rel="alternate" type="text/html" title="O Poder Usurpado" />
+    <link href="http://localhost:4000/posts/o-poder-usurpado/" rel="alternate" type="text/html" title="O Poder Usurpado" />
     <published>2022-11-30T22:33:33-03:00</published>
   
     <updated>2022-11-30T22:33:33-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/o-poder-usurpado/</id>
-    <content src="https://inprincipioverbum.github.io/posts/o-poder-usurpado/" />
+    <id>http://localhost:4000/posts/o-poder-usurpado/</id>
+    <content src="http://localhost:4000/posts/o-poder-usurpado/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -128,13 +128,13 @@ Como combater o controle da opinião pública:
   
   <entry>
     <title>In Principio Verbum</title>
-    <link href="https://inprincipioverbum.github.io/posts/in-principio-verbum/" rel="alternate" type="text/html" title="In Principio Verbum" />
+    <link href="http://localhost:4000/posts/in-principio-verbum/" rel="alternate" type="text/html" title="In Principio Verbum" />
     <published>0001-01-01T22:33:33-03:00</published>
   
     <updated>0001-01-01T22:33:33-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/in-principio-verbum/</id>
-    <content src="https://inprincipioverbum.github.io/posts/in-principio-verbum/" />
+    <id>http://localhost:4000/posts/in-principio-verbum/</id>
+    <content src="http://localhost:4000/posts/in-principio-verbum/" />
     <author>
       <name>araguaci</name>
     </author>

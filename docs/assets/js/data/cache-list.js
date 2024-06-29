@@ -18,13 +18,15 @@ const include = [
   
     '/categories/',
   
+    '/pinect/',
+  
     '/tags/',
   
     '/timeline/',
   
     '/about/',
   
-    '/friends/',
+    '/contact/',
   
 
 

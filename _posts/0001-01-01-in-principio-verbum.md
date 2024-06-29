@@ -1,7 +1,7 @@
 ---
 title: In Principio Verbum
 author: araguaci
-date: 0001-01-01 33:33:33 +0800
+date: 0001-01-01T01:01:01.001Z
 categories:
   - genese
 tags:

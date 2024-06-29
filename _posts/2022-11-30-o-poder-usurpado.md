@@ -1,7 +1,7 @@
 ---
 title: O Poder Usurpado
 date: 2022-11-30 33:33:33 +0800
-categories: [poder, lisura]
+categories: [poder, lisura, governo]
 tags: [instituições]
 mermaid: true
 image:

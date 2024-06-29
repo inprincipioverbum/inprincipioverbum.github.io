@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://inprincipioverbum.github.io/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2024-06-23T02:48:57-03:00</updated>
+  <updated>2024-06-29T12:11:04-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://inprincipioverbum.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://inprincipioverbum.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="pt_BR"
-    href="http://localhost:4000/"/>
+    href="https://inprincipioverbum.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 In Principio Verbum </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,86 @@
 
   
   <entry>
+    <title>O medo, a dúvida e a descrença</title>
+    <link href="https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/" rel="alternate" type="text/html" title="O medo, a dúvida e a descrença" />
+    <published>2024-06-26T16:33:37-03:00</published>
+  
+    <updated>2024-06-26T16:33:37-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/</id>
+    <content src="https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/" />
+    <author>
+      <name>mainframemind</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>No labirinto intrincado da Matrix, três forças atuam como correntes invisíveis, prendendo as almas e impedindo-as de alcançar sua verdadeira potencialidade: o medo, a dúvida e a descrença.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Métodos de Desinformação na Mídia</title>
+    <link href="https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/" rel="alternate" type="text/html" title="Métodos de Desinformação na Mídia" />
+    <published>2024-06-23T19:17:38-03:00</published>
+  
+    <updated>2024-06-23T19:17:38-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/</id>
+    <content src="https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/" />
+    <author>
+      <name>D_Pflaumer</name>
+    </author>
+
+  
+    
+    <category term="instituições" />
+    
+  
+
+  <summary>Os dias do legítimo `repórter investigativo` se foram, e o jornalismo em si deteriorou-se em um poço rançoso de chamados `Editorialistas de TV`, que tratam suas próprias opiniões infundadas como fatos comprovados.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>“As Meditações” de Marco Aurélio: um manual para a adversidade</title>
+    <link href="https://inprincipioverbum.github.io/posts/meditacoes-marco-aurelio-manual-adversidade/" rel="alternate" type="text/html" title="“As Meditações” de Marco Aurélio: um manual para a adversidade" />
+    <published>2024-06-22T19:22:22-03:00</published>
+  
+    <updated>2024-06-22T19:22:22-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/meditacoes-marco-aurelio-manual-adversidade/</id>
+    <content src="https://inprincipioverbum.github.io/posts/meditacoes-marco-aurelio-manual-adversidade/" />
+    <author>
+      <name>In Principio Verbum</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>Quase dois mil anos após terem sido escritas. A ideia de que a sabedoria é encontrada através da exploração está há muito tempo conosco. É uma pedra angular de muitas culturas e a força motriz por trás da investigação científica.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>As 7 regras de Vicente Falconi</title>
-    <link href="http://localhost:4000/posts/as-7-regras-de-vicente-falconi/" rel="alternate" type="text/html" title="As 7 regras de Vicente Falconi" />
+    <link href="https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/" rel="alternate" type="text/html" title="As 7 regras de Vicente Falconi" />
     <published>2024-06-22T15:46:33-03:00</published>
   
     <updated>2024-06-22T15:46:33-03:00</updated>
   
-    <id>http://localhost:4000/posts/as-7-regras-de-vicente-falconi/</id>
-    <content src="http://localhost:4000/posts/as-7-regras-de-vicente-falconi/" />
+    <id>https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/</id>
+    <content src="https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/" />
     <author>
       <name>araguaci</name>
     </author>
@@ -45,13 +117,13 @@
   
   <entry>
     <title>O Papel da Educação na Prevenção das Drogas</title>
-    <link href="http://localhost:4000/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" rel="alternate" type="text/html" title="O Papel da Educação na Prevenção das Drogas" />
+    <link href="https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" rel="alternate" type="text/html" title="O Papel da Educação na Prevenção das Drogas" />
     <published>2024-06-20T23:04:24-03:00</published>
   
     <updated>2024-06-20T23:04:24-03:00</updated>
   
-    <id>http://localhost:4000/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/</id>
-    <content src="http://localhost:4000/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" />
+    <id>https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/</id>
+    <content src="https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" />
     <author>
       <name>araguaci</name>
     </author>
@@ -63,89 +135,6 @@
   
 
   <summary>A prevenção do uso indevido de drogas é fundamental para a sensibilização sobre os riscos e perigos causados por elas.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Vidas Destruídas</title>
-    <link href="http://localhost:4000/posts/vidas-destru%C3%ADdas/" rel="alternate" type="text/html" title="Vidas Destruídas" />
-    <published>2024-06-20T23:01:18-03:00</published>
-  
-    <updated>2024-06-20T23:01:18-03:00</updated>
-  
-    <id>http://localhost:4000/posts/vidas-destru%C3%ADdas/</id>
-    <content src="http://localhost:4000/posts/vidas-destru%C3%ADdas/" />
-    <author>
-      <name>araguaci</name>
-    </author>
-
-  
-    
-    <category term="sociedade" />
-    
-    <category term="justiça" />
-    
-  
-
-  <summary>A dor e o sofrimento causados pelas drogas e pelas decisões difíceis relacionadas à vida são profundamente impactantes. A sociedade enfrenta desafios complexos, e é importante abordá-los com empatia e compreensão.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>O Poder Usurpado</title>
-    <link href="http://localhost:4000/posts/o-poder-usurpado/" rel="alternate" type="text/html" title="O Poder Usurpado" />
-    <published>2022-11-30T22:33:33-03:00</published>
-  
-    <updated>2022-11-30T22:33:33-03:00</updated>
-  
-    <id>http://localhost:4000/posts/o-poder-usurpado/</id>
-    <content src="http://localhost:4000/posts/o-poder-usurpado/" />
-    <author>
-      <name>In Principio Verbum</name>
-    </author>
-
-  
-    
-    <category term="poder" />
-    
-    <category term="lisura" />
-    
-  
-
-  <summary>A sua preocupação e a sensação de que o poder foi usurpado em muitos segmentos sociais e econômicos. A falta de legitimidade e transparência nas autoridades pode ser profundamente perturbadora.
-
-Como combater o controle da opinião pública:
-
-
-  Transparência e Prestação de Contas:
-    
-      A transparência é fundamental para a manutenção da confiança nas instituições. As autoridades devem prest...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>In Principio Verbum</title>
-    <link href="http://localhost:4000/posts/in-principio-verbum/" rel="alternate" type="text/html" title="In Principio Verbum" />
-    <published>0001-01-01T22:33:33-03:00</published>
-  
-    <updated>0001-01-01T22:33:33-03:00</updated>
-  
-    <id>http://localhost:4000/posts/in-principio-verbum/</id>
-    <content src="http://localhost:4000/posts/in-principio-verbum/" />
-    <author>
-      <name>araguaci</name>
-    </author>
-
-  
-    
-    <category term="genese" />
-    
-  
-
-  <summary>**In Principio Verbum** é a abertura do **Evangelho de João**, que retoma a criação do mundo.</summary>
 
   </entry>
 

@@ -1,6 +1,6 @@
 ---
 title: Linha do Tempo
 layout: archives
-icon: fa-solid fa-timeline
+icon: fas fa-timeline
 order: 3
 ---

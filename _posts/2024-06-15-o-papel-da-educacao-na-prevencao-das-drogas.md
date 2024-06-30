@@ -3,7 +3,7 @@ title: O Papel da Educação na Prevenção das Drogas
 description: "A prevenção do uso indevido de drogas é fundamental para a sensibilização sobre os riscos e perigos causados por elas."
 date: 2024-06-15T02:04:24.907Z
 tags: [educação, sociedade, drogas]
-categories: [educação]
+categories: [instituições]
 author: araguaci
 type: default
 image:

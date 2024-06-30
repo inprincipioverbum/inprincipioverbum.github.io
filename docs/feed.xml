@@ -4,7 +4,7 @@
   <id>https://inprincipioverbum.github.io/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2024-06-29T12:11:04-03:00</updated>
+  <updated>2024-06-30T15:42:42-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
     <uri>https://inprincipioverbum.github.io/</uri>
@@ -17,6 +17,54 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Desintegração Social - As Consequências da Fragmentação da Comunidade</title>
+    <link href="https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" rel="alternate" type="text/html" title="Desintegração Social - As Consequências da Fragmentação da Comunidade" />
+    <published>2024-06-30T14:48:42-03:00</published>
+  
+    <updated>2024-06-30T14:48:42-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/</id>
+    <content src="https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" />
+    <author>
+      <name>lucasfreitas</name>
+    </author>
+
+  
+    
+    <category term="instituições" />
+    
+  
+
+  <summary>Será que estamos nos afastando cada vez mais uns dos outros?</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Verdade e Justica</title>
+    <link href="https://inprincipioverbum.github.io/posts/verdade-e-justica/" rel="alternate" type="text/html" title="Verdade e Justica" />
+    <published>2024-06-30T13:40:03-03:00</published>
+  
+    <updated>2024-06-30T13:40:03-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/verdade-e-justica/</id>
+    <content src="https://inprincipioverbum.github.io/posts/verdade-e-justica/" />
+    <author>
+      <name>In Principio Verbum</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>A busca pela verdade é uma constante na história da humanidade.</summary>
+
+  </entry>
 
   
   <entry>
@@ -87,54 +135,6 @@
   
 
   <summary>Quase dois mil anos após terem sido escritas. A ideia de que a sabedoria é encontrada através da exploração está há muito tempo conosco. É uma pedra angular de muitas culturas e a força motriz por trás da investigação científica.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>As 7 regras de Vicente Falconi</title>
-    <link href="https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/" rel="alternate" type="text/html" title="As 7 regras de Vicente Falconi" />
-    <published>2024-06-22T15:46:33-03:00</published>
-  
-    <updated>2024-06-22T15:46:33-03:00</updated>
-  
-    <id>https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/</id>
-    <content src="https://inprincipioverbum.github.io/posts/as-7-regras-de-vicente-falconi/" />
-    <author>
-      <name>araguaci</name>
-    </author>
-
-  
-    
-    <category term="gestão" />
-    
-  
-
-  <summary>Um líder para os líderes: as regras e as histórias que fizeram de Vicente Falconi uma referência na gestão.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>O Papel da Educação na Prevenção das Drogas</title>
-    <link href="https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" rel="alternate" type="text/html" title="O Papel da Educação na Prevenção das Drogas" />
-    <published>2024-06-20T23:04:24-03:00</published>
-  
-    <updated>2024-06-20T23:04:24-03:00</updated>
-  
-    <id>https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/</id>
-    <content src="https://inprincipioverbum.github.io/posts/o-papel-da-educa%C3%A7%C3%A3o-na-preven%C3%A7%C3%A3o-das-drogas/" />
-    <author>
-      <name>araguaci</name>
-    </author>
-
-  
-    
-    <category term="educação" />
-    
-  
-
-  <summary>A prevenção do uso indevido de drogas é fundamental para a sensibilização sobre os riscos e perigos causados por elas.</summary>
 
   </entry>
 

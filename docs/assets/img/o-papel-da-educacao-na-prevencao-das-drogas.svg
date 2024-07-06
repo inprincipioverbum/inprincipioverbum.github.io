@@ -8,7 +8,7 @@
    viewBox="0 0 1655 1160"
    width="1655"
    version="1.1"
-   sodipodi:docname="O Papel da Educação na Prevenção das Drogas.svg"
+   sodipodi:docname="o-papel-da-educacao-na-prevencao-das-drogas.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    inkscape:export-filename="O Papel da Educação na Prevenção das Drogas.png"
    inkscape:export-xdpi="100.53416"
@@ -29,15 +29,16 @@
      inkscape:deskcolor="#d1d1d1"
      showguides="true"
      inkscape:zoom="0.66982759"
-     inkscape:cx="827.82497"
-     inkscape:cy="260.5148"
+     inkscape:cx="827.82496"
+     inkscape:cy="857.68339"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="page300000100"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:export-bgcolor="#ffffff00">
     <sodipodi:guide
        position="-31.351351,147.79923"
        orientation="1,0"
@@ -66,6 +67,11 @@ svg text::selection,svg tspan::selection{background-color: #4285f4;color: #fffff
          id="feGaussianBlur1" />
     </filter>
   </defs>
+  <path
+     style="fill:#e6e6e6;stroke-width:1.49292"
+     d="M 13.436293,519.53668 V 11.196911 H 827.82496 1642.2136 V 519.53668 1027.8764 H 827.82496 13.436293 Z"
+     id="path5"
+     inkscape:label="path5" />
   <path
      stroke="#f83d2e"
      ed:parentid="101"
@@ -1007,14 +1013,15 @@ svg text::selection,svg tspan::selection{background-color: #4285f4;color: #fffff
          lengthAdjust="spacing">vulnerabilidade.</tspan></text>
   </g>
   <svg
-     height="1149.9999999999982"
-     width="1655.1973333333335"
+     height="1150"
+     width="1655.1974"
      version="1.1"
-     id="svg110">
+     id="svg110"
+     style="display:inline">
     <g
        height="118"
-       style="transform-origin: 0% 0%;"
-       transform="translate(1244.76,0), scale(1.28261)"
+       style="-moz-user-select:none;-ms-user-select:none"
+       transform="matrix(1.28261,0,0,1.28261,1244.76,0)"
        width="410.43478260869563"
        id="g110">
       <defs
@@ -1024,8 +1031,8 @@ svg text::selection,svg tspan::selection{background-color: #4285f4;color: #fffff
            gradientUnits="userSpaceOnUse"
            id="paint1_linear"
            x1="48"
-           y1="60.2544"
-           y2="-2.76465">
+           y1="60.254398"
+           y2="-2.7646501">
           <stop
              stop-color="#008899"
              id="stop108" />
@@ -1038,10 +1045,12 @@ svg text::selection,svg tspan::selection{background-color: #4285f4;color: #fffff
            id="clip2">
           <rect
              height="48"
-             transform="translate(50 22)"
-             fill="white"
+             transform="translate(50,22)"
+             fill="#ffffff"
              width="48"
-             id="rect109" />
+             id="rect109"
+             x="0"
+             y="0" />
         </clipPath>
         <clipPath
            id="clip3">
@@ -1050,7 +1059,7 @@ svg text::selection,svg tspan::selection{background-color: #4285f4;color: #fffff
              x="50"
              rx="10.9515"
              y="22"
-             fill="white"
+             fill="#ffffff"
              width="48"
              id="rect110" />
         </clipPath>

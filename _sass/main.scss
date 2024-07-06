@@ -207,3 +207,8 @@ header .post-desc {
   animation: infirot 1s linear infinite;
   -webkit-animation: infirot 1s linear infinite;
 }
+
+#sidebar ul li.nav-item a.nav-link {
+    padding-top: .4rem;
+    padding-bottom: .4rem;
+}

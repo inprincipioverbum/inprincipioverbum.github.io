@@ -11,7 +11,7 @@ details.details-block {
 }
 
 details.details-block > summary {
-    padding: .5rem 1.0rem .5rem 1.0rem; 
+    padding: .5rem 1.0rem .5rem 1.0rem;
     margin: -.6rem -1rem -.6rem -1.5rem;
     font-weight: 600;
     background-color: var(--details-bg);
@@ -31,7 +31,7 @@ details.details-block > summary::marker {
 details.details-block > summary::before {
     /* 关闭状态下 */
     /* 也可以用其他符号或自定义图标，比如 Unicode 字符 */
-    // content: '🙈'; 
+    // content: '🙈';
     /* content:'\002B9A'; */
     content: '😼';
     margin-right: .5rem;
@@ -39,7 +39,7 @@ details.details-block > summary::before {
 }
 details.details-block[open] > summary::before {
     /* 展开状态下 */
-    /* content: '🐵';*/  
+    /* content: '🐵';*/
     /* content: '\002B9B'; */
     content: '🙀';
     animation: my-cat .2s ease-in-out; /*  点击会有动画效果 */
@@ -72,8 +72,8 @@ details.details-block[open] > summary{
 // details class = "details-inline"
 details.details-inline {
     margin-bottom: 1rem;
-    padding-left: 1rem; 
-    border-left: 2px solid var(--blockquote-border-color); 
+    padding-left: 1rem;
+    border-left: 2px solid var(--blockquote-border-color);
     > p:last-child{
         margin-bottom: 0;
     }
@@ -104,3 +104,5 @@ details.details-inline > summary::before {
 details.details-inline[open] > summary::before {
     transform: rotate(135deg);
 }
+
+

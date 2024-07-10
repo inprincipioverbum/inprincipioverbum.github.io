@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://inprincipioverbum.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2024-07-05T21:46:01-03:00</updated>
+  <updated>2024-07-10T15:46:29-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
-    <uri>https://inprincipioverbum.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://inprincipioverbum.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="pt_BR"
-    href="https://inprincipioverbum.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 In Principio Verbum </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Desintegração Social - As Consequências da Fragmentação da Comunidade</title>
-    <link href="https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" rel="alternate" type="text/html" title="Desintegração Social - As Consequências da Fragmentação da Comunidade" />
+    <link href="http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" rel="alternate" type="text/html" title="Desintegração Social - As Consequências da Fragmentação da Comunidade" />
     <published>2024-06-30T14:48:42-03:00</published>
   
     <updated>2024-06-30T14:48:42-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/</id>
-    <content src="https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" />
+    <id>http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/</id>
+    <content src="http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" />
     <author>
       <name>lucasfreitas</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>Verdade e Justica</title>
-    <link href="https://inprincipioverbum.github.io/posts/verdade-e-justica/" rel="alternate" type="text/html" title="Verdade e Justica" />
+    <link href="http://localhost:4000/posts/verdade-e-justica/" rel="alternate" type="text/html" title="Verdade e Justica" />
     <published>2024-06-30T13:40:03-03:00</published>
   
     <updated>2024-06-30T13:40:03-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/verdade-e-justica/</id>
-    <content src="https://inprincipioverbum.github.io/posts/verdade-e-justica/" />
+    <id>http://localhost:4000/posts/verdade-e-justica/</id>
+    <content src="http://localhost:4000/posts/verdade-e-justica/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -69,13 +69,13 @@
   
   <entry>
     <title>O medo, a dúvida e a descrença</title>
-    <link href="https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/" rel="alternate" type="text/html" title="O medo, a dúvida e a descrença" />
+    <link href="http://localhost:4000/posts/o-medo-a-duvida-e-a-descrenca/" rel="alternate" type="text/html" title="O medo, a dúvida e a descrença" />
     <published>2024-06-26T16:33:37-03:00</published>
   
     <updated>2024-06-26T16:33:37-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/</id>
-    <content src="https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/" />
+    <id>http://localhost:4000/posts/o-medo-a-duvida-e-a-descrenca/</id>
+    <content src="http://localhost:4000/posts/o-medo-a-duvida-e-a-descrenca/" />
     <author>
       <name>mainframemind</name>
     </author>
@@ -93,13 +93,13 @@
   
   <entry>
     <title>Métodos de Desinformação na Mídia</title>
-    <link href="https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/" rel="alternate" type="text/html" title="Métodos de Desinformação na Mídia" />
+    <link href="http://localhost:4000/posts/metodos-de-desinformacao-na-midia/" rel="alternate" type="text/html" title="Métodos de Desinformação na Mídia" />
     <published>2024-06-23T19:17:38-03:00</published>
   
     <updated>2024-06-23T19:17:38-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/</id>
-    <content src="https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/" />
+    <id>http://localhost:4000/posts/metodos-de-desinformacao-na-midia/</id>
+    <content src="http://localhost:4000/posts/metodos-de-desinformacao-na-midia/" />
     <author>
       <name>D_Pflaumer</name>
     </author>
@@ -117,13 +117,13 @@
   
   <entry>
     <title>“As Meditações” de Marco Aurélio: um manual para a adversidade</title>
-    <link href="https://inprincipioverbum.github.io/posts/meditacoes-marco-aurelio-manual-adversidade/" rel="alternate" type="text/html" title="“As Meditações” de Marco Aurélio: um manual para a adversidade" />
+    <link href="http://localhost:4000/posts/meditacoes-marco-aurelio-manual-adversidade/" rel="alternate" type="text/html" title="“As Meditações” de Marco Aurélio: um manual para a adversidade" />
     <published>2024-06-22T19:22:22-03:00</published>
   
     <updated>2024-06-22T19:22:22-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/meditacoes-marco-aurelio-manual-adversidade/</id>
-    <content src="https://inprincipioverbum.github.io/posts/meditacoes-marco-aurelio-manual-adversidade/" />
+    <id>http://localhost:4000/posts/meditacoes-marco-aurelio-manual-adversidade/</id>
+    <content src="http://localhost:4000/posts/meditacoes-marco-aurelio-manual-adversidade/" />
     <author>
       <name>In Principio Verbum</name>
     </author>

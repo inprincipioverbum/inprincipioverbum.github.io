@@ -1,4 +1,11 @@
-# Estado de Direito: Esta é a definição do termo
+---
+title: Estado de Direito - Esta é a definição do termo
+tags: [poder, lisura, governo, decadência, direito]
+categories: [instituições]
+mermaid: true
+image:
+  path: 'assets/img/orwell.jpg'
+---
 
 Muitas pessoas sabem que a Alemanha é um Estado de direito. Mas o que exatamente está por trás do termo e quais aspectos ele abrange, a maioria das pessoas não sabe exatamente. Nós fornecemos uma definição da expressão e explicamos o significado.
 
@@ -6,8 +13,7 @@ Muitas pessoas sabem que a Alemanha é um Estado de direito. Mas o que exatament
 
 "Estado falido" é um termo usado na ciência política. O termo é usado para estados que não podem mais cumprir suas tarefas estatais devido à decadência das instituições estatais.
 
-Isso inclui, por exemplo, manter a segurança interna e externa, garantir os chamados serviços básicos – como saúde ou educação – ou manter Regra.
-https://praxistipps.focus.de/rechtsstaat-das-ist-die-definition-des-begriffs_120612 
+Isso inclui, por exemplo, manter a segurança interna e externa, garantir os chamados serviços básicos – como saúde ou educação – ou manter Regra. 
 
 
 ## Definição de Estado de direito
@@ -33,4 +39,4 @@ A Alemanha é hoje um Estado de direito. Especialmente no passado, no entanto, h
 
   - A RDA também é por vezes classificada como um Estado injusto, uma vez que o governo de lá também desrespeitou as leis para perseguir seus próprios interesses. No entanto, havia um sistema jurídico com regras claras que puniam criminosos e se assemelhavam a uma democracia, razão pela qual a classificação muitas vezes não é considerada completamente correta.
 
-Fonte: https://praxistipps.focus.de/rechtsstaat-das-ist-die-definition-des-begriffs_120612
+Fonte: [praxistipps](https://praxistipps.focus.de/rechtsstaat-das-ist-die-definition-des-begriffs_120612)

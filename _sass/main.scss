@@ -212,3 +212,46 @@ header .post-desc {
     padding-top: .4rem;
     padding-bottom: .4rem;
 }
+
+
+aside:not([class]) {
+    border-radius: .25rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(242 221 199 / var(--tw-bg-opacity));
+    padding: 1rem;
+    --tw-text-opacity: 1;
+    color: rgb(80 73 69 / var(--tw-text-opacity))
+}
+
+aside:not([class]):is([data-theme=dark] *) {
+    --tw-bg-opacity: 1;
+    background-color: rgb(50 48 47 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(226 193 162 / var(--tw-text-opacity))
+}
+
+aside:not([class]) {
+    border-inline-start:.25rem solid}
+
+em {
+    border-radius: .25rem;
+    --tw-bg-opacity: 1;
+    background-color: rgb(242 221 199 / var(--tw-bg-opacity));
+    padding: .25rem;
+    --tw-text-opacity: 1;
+    color: rgb(80 73 69 / var(--tw-text-opacity))
+}
+
+em:is([data-theme=dark] *) {
+    --tw-bg-opacity: 1;
+    background-color: rgb(50 48 47 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(226 193 162 / var(--tw-text-opacity))
+}
+
+.side-by-side {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+    text-align: justify;
+}

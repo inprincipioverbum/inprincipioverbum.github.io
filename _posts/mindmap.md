@@ -1,62 +1,22 @@
-# Ética e Honra
+## Kahuna
 
-1. Integridade e Responsabilidade
-   - Agir com integridade em todas as situações, mesmo quando ninguém está observando.
-   - Assumir responsabilidade por nossas escolhas e ações, reconhecendo seus impactos.
+Huna é uma filosofia ancestral havaiana que envolve sete princípios fundamentais, conhecidos como os Princípios Huna. Cada um deles carrega um significado profundo e oferece insights sobre a vida e o mundo. Vamos explorar esses princípios
 
-2. Honestidade e Transparência
-   - Ser honesto em nossas interações, evitando mentiras e enganos.
-   - Ser transparente sobre nossas intenções e motivações.
+1. Ike (consciência, conhecimento)
+   - "O mundo é o que você pensa que ele é." Isso significa que nossa percepção do mundo é moldada por nossas crenças e pensamentos. Não vemos para crer; vemos o que cremos. Assim como o pescador na história, nossa visão do mundo é influenciada por nossas próprias lentes internas.
 
-3. Respeito e Empatia
-   - Tratar os outros com dignidade e respeito, independentemente de suas diferenças.
-   - Praticar a empatia, colocando-se no lugar do outro e compreendendo suas perspectivas.
+2. Kala (liberdade, ausência de limites)
+   - "Não há limites; tudo é possível." Kala nos lembra que nossas limitações são frequentemente autoimpostas. Quando expandimos nossa mente e nos libertamos das restrições, abrimos espaço para o potencial ilimitado.
 
-4. Responsabilidade Pessoal e Cidadania Consciente
-   - Agir de acordo com nossos valores e não comprometer nossa integridade.
-   - Contribuir para fortalecer os valores éticos e honoráveis na sociedade como um todo.
+3. Manawa (momento presente)
+   - "Agora é o momento de poder." Manawa nos convida a estar plenamente presente no momento atual. É aqui que nossa capacidade de criar e influenciar reside.
 
-5. Cuidado com o Meio Ambiente e Gerações Futuras
-   - Considerar o impacto de nossas decisões no meio ambiente e nas próximas gerações.
-   - Agir de forma sustentável e consciente.
+4. Aloha (amor, compaixão)
+   - Aloha vai além do significado comum de "aloha" como saudação. Representa amor, compaixão e harmonia. Quando vivemos com aloha, estamos em sintonia com o fluxo da vida.
 
-6. Reflexão e Autoconhecimento
-   - Refletir sobre nossas ações e buscar constantemente o autoconhecimento.
-   - Questionar nossos próprios preconceitos e vieses.
+5. Mana (energia, poder)
+   - "Todo o poder vem de dentro." Mana é a energia vital que flui através de nós. Reconhecer nosso próprio poder interno nos capacita a manifestar mudanças positivas.
 
-A **ética** e a **honra** são fundamentais para uma sociedade saudável e justa. Elas envolvem princípios essenciais que guiam nossas ações e relacionamentos. Vamos explorar como podemos promovê-las:
+6. Pono (retidão, equilíbrio)
+   - "Estar em harmonia com o universo." Pono nos lembra de buscar o equilíbrio e a integridade em nossas ações. Quando estamos alinhados com o que é certo, encontramos paz.
 
-1. **Integridade e Responsabilidade**:
-   - **Agir com integridade** em todas as situações, mesmo quando ninguém está observando.
-   - **Assumir responsabilidade** por nossas escolhas e ações, reconhecendo seus impactos.
-
-2. **Honestidade e Transparência**:
-   - **Ser honesto** em nossas interações, evitando mentiras e enganos.
-   - **Ser transparente** sobre nossas intenções e motivações.
-
-3. **Respeito e Empatia**:
-   - **Tratar os outros com dignidade e respeito**, independentemente de suas diferenças.
-   - **Praticar a empatia**, colocando-se no lugar do outro e compreendendo suas perspectivas.
-
-4. **Responsabilidade Pessoal e Cidadania Consciente**:
-   - **Agir de acordo com nossos valores** e não comprometer nossa integridade.
-   - **Contribuir para fortalecer os valores éticos e honoráveis** na sociedade como um todo.
-
-5. **Cuidado com o Meio Ambiente e Gerações Futuras**:
-   - Considerar o impacto de nossas decisões no meio ambiente e nas próximas gerações.
-   - Agir de forma sustentável e consciente.
-
-6. **Reflexão e Autoconhecimento**:
-   - **Refletir sobre nossas ações** e buscar constantemente o autoconhecimento.
-   - **Questionar nossos próprios preconceitos e vieses**.
-
-Promover a ética e a honra é um esforço coletivo. Cada indivíduo pode contribuir para uma sociedade mais justa e equilibrada ao seguir esses princípios em seu dia a dia. 🌟
-
-¹: [Os Princípios da Honra e Ética: Um Guia para Cidadãos Conscientes](https://rabiscodahistoria.com/os-principios-da-honra-e-etica-um-guia-para-cidadaos-conscientes/)
-²: [A importância da ética na sociedade atual.](https://rabiscodahistoria.com/a-importancia-da-etica-na-sociedade-atual/)
-³: [O que é a ética e porque ela é importante | National Geographic](https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-porque-ela-e-importante)
-
-Fonte: conversa com o Copilot, 30/06/2024
-(1) Os Princípios da Honra e Ética: Um Guia para Cidadãos Conscientes. https://rabiscodahistoria.com/os-principios-da-honra-e-etica-um-guia-para-cidadaos-conscientes/.
-(2) A importância da ética na sociedade atual. - Rabisco da História. https://rabiscodahistoria.com/a-importancia-da-etica-na-sociedade-atual/.
-(3) O que é a ética e porque ela é importante | National Geographic. https://www.nationalgeographicbrasil.com/historia/2022/11/o-que-e-a-etica-e-porque-ela-e-importante.

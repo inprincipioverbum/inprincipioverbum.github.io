@@ -5,7 +5,7 @@ tags: [poder, lisura, governo]
 categories: [instituições]
 mermaid: true
 image:
-  path: 'assets/img/o-poder-usurpado.png'
+  path: 'assets/img/more-money.png'
 ---
 
 A sua preocupação e a sensação de que o poder foi usurpado em muitos segmentos sociais e econômicos. A falta de legitimidade e transparência nas autoridades pode ser profundamente perturbadora.

@@ -2,7 +2,7 @@
 title: Sabedoria Viking
 hide:
   - toc
-tags: [citações, provérbios, poemas, viking]
+tags: [citações, provérbios, poemas, viking, virtude]
 categories: [sabedoria]
 image:
   path: 'assets/img/viking.jpg'

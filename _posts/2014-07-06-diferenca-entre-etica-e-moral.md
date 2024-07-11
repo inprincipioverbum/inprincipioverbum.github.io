@@ -1,6 +1,6 @@
 ---
 title: A diferença entre Ética e Moral
-tags: [sabedoria, sociedade, ética, moral]
+tags: [sabedoria, sociedade, ética, moral,virtude]
 categories: [sabedoria]
 ---
 

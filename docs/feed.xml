@@ -4,7 +4,7 @@
   <id>https://inprincipioverbum.github.io/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2024-07-11T10:52:44-03:00</updated>
+  <updated>2024-07-11T19:25:04-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
     <uri>https://inprincipioverbum.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>O discurso de início mais famoso de todo o século 20</title>
+    <link href="https://inprincipioverbum.github.io/posts/alexandr-solzhenitsyn/" rel="alternate" type="text/html" title="O discurso de início mais famoso de todo o século 20" />
+    <published>2024-07-11T18:21:21-03:00</published>
+  
+    <updated>2024-07-11T18:21:21-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/alexandr-solzhenitsyn/</id>
+    <content src="https://inprincipioverbum.github.io/posts/alexandr-solzhenitsyn/" />
+    <author>
+      <name>In Principio Verbum</name>
+    </author>
+
+  
+    
+    <category term="sociedade" />
+    
+  
+
+  <summary>O orador, Alexandr Solzhenitsyn, estava exilado da União Soviética. Em seu discurso, Soljenítsin fez uma advertência terrível ao Ocidente.</summary>
+
+  </entry>
 
   
   <entry>
@@ -113,30 +137,6 @@
   
 
   <summary>No labirinto intrincado da Matrix, três forças atuam como correntes invisíveis, prendendo as almas e impedindo-as de alcançar sua verdadeira potencialidade: o medo, a dúvida e a descrença.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Métodos de Desinformação na Mídia</title>
-    <link href="https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/" rel="alternate" type="text/html" title="Métodos de Desinformação na Mídia" />
-    <published>2024-06-23T19:17:38-03:00</published>
-  
-    <updated>2024-06-23T19:17:38-03:00</updated>
-  
-    <id>https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/</id>
-    <content src="https://inprincipioverbum.github.io/posts/metodos-de-desinformacao-na-midia/" />
-    <author>
-      <name>D_Pflaumer</name>
-    </author>
-
-  
-    
-    <category term="instituições" />
-    
-  
-
-  <summary>Os dias do legítimo `repórter investigativo` se foram, e o jornalismo em si deteriorou-se em um poço rançoso de chamados `Editorialistas de TV`, que tratam suas próprias opiniões infundadas como fatos comprovados.</summary>
 
   </entry>
 

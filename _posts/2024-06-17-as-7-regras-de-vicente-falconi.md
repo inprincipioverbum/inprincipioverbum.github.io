@@ -3,7 +3,7 @@ title: As 7 regras de Vicente Falconi
 description: "Um líder para os líderes: as regras e as histórias que fizeram de Vicente Falconi uma referência na gestão.  "
 date: 2024-06-17T18:46:33.149Z
 author: araguaci
-tags: [estratégia, gestão]
+tags: [estratégia, gestão, sociedade]
 categories: [gestão]
 mermaid: false
 image:
@@ -11,7 +11,7 @@ image:
 type: default
 ---
 
-__Para muita gente, o professor Falconi é sinônimo de eficiência em gestão. Conheça mais sobre os conceitos que até hoje norteiam algumas das principais empresas do país.__
+**Para muita gente, o professor Falconi é sinônimo de eficiência em gestão. Conheça mais sobre os conceitos que até hoje norteiam algumas das principais empresas do país.**
 
 Consultor, professor, mestre, guru: são muitos os epítetos pelos quais Vicente Falconi é conhecido. Hoje tido como um dos homens mais poderosos do país (de acordo com várias listas, [como esta](http://ultimosegundo.ig.com.br/os-60-mais-poderosos/), do Último Segundo), o fundador da consultoria que leva seu sobrenome responde por uma longa e movimentada trajetória. Uma história de aprendizados, de equívocos, de desafios — e, claro, de conquistas, o que sem dúvida justifica o prestígio de que hoje ele desfruta.
 
@@ -43,7 +43,7 @@ _Só faltava explicar para o time de vendedores como a nova fórmula iria funcio
 
 _“O processo de vendas ficou como um fluxograma de uma linha de produção. Mas era preciso traduzir aquilo para o vendedor. Decidimos transformar o processo todo numa agenda: segunda-feira, 7 horas da manhã, faça isso. Às 8 horas, faça aquilo, e assim por diante. Quando ficou pronto, eu mostrei pro Brito \[Carlos Brito, à época diretor de vendas da Brahma] e disse que aquele era o melhor jeito de explicar para 10 mil pessoas que não entendiam nada de fluxograma. Agenda todo mundo ia entender. E as pessoas começaram a trabalhar sem necessariamente saber que estavam seguindo o método._
 
-___Muita gente acha que seguir método é uma chatice, certo? Mas agenda não parece chatice… Quando você consegue estabelecer uma rotina, a execução melhora. Mesmo um cara que antes tinha um desempenho abaixo da média melhora seu resultado ao seguir os processos.”___
+**_Muita gente acha que seguir método é uma chatice, certo? Mas agenda não parece chatice… Quando você consegue estabelecer uma rotina, a execução melhora. Mesmo um cara que antes tinha um desempenho abaixo da média melhora seu resultado ao seguir os processos.”_**
 
 _Criada a rotina, foi possível começar a fazer testes para aferir o que de fato aumentaria as vendas – e em quanto. Paiva se lembra da ocasião em que, em conversa com Falconi, garantiu que colocar mesa e freezer da cervejaria em bares aumentava as vendas. O Professor perguntou se ele sabia qual o impacto de cada item. Paiva não fazia ideia. Falconi recomendou que ele realizasse testes: alguns bares receberiam mesa, outros ganhariam freezers e um terceiro grupo teria todo o material da cervejaria. Não foi necessário esperar muito tempo para perceber que mesas e freezers instalados juntos davam mais resultado do que apenas um dos itens. Uma conclusão baseada totalmente em estatísticas e zero em “achismos”._
 
@@ -69,7 +69,7 @@ _Durante os meses em que atuou como conselheiro, Falconi compensou a falta de ex
 
 _Ao ver os números, Falconi sugeriu uma análise detalhada. Inicialmente, o argumento foi de que a linha é administrada na hora em que o crédito é concedido (se a um bom ou um mau pagador) e depois disso não há mais nada a fazer. Falconi insistiu. “E ele tinha razão, porque quando você joga luz em cima sempre encontra alguma coisa, como mudar a forma de cobrança, por exemplo”, diz o banqueiro. “Foi o que fizemos.”_
 
-_O outro episódio aconteceu durante uma visita dos conselheiros a uma gigantesca área de atendimento telefônico do banco. O responsável pelo setor fez uma apresentação detalhada do funcionamento da unidade e de sua grande eficiência. Todos estavam satisfeitos com os resultados exibidos. Só Falconi parecia incomodado. Até que se aproximou do executivo encarregado da área e falou: “Meu filho, eu não sei ajudar o que está indo bem. Só sei ajudar quem tem problema. Se você não me falar nenhum, não vou ter o que fazer.” __Era Falconi tentando mais uma vez ensinar algo que repete desde que começou a prestar consultoria: expor um problema é bom; ruim é tentar escondê-lo ou fazer vista grossa. Apenas quando um problema é identificado ele pode ser solucionado.___
+\_O outro episódio aconteceu durante uma visita dos conselheiros a uma gigantesca área de atendimento telefônico do banco. O responsável pelo setor fez uma apresentação detalhada do funcionamento da unidade e de sua grande eficiência. Todos estavam satisfeitos com os resultados exibidos. Só Falconi parecia incomodado. Até que se aproximou do executivo encarregado da área e falou: “Meu filho, eu não sei ajudar o que está indo bem. Só sei ajudar quem tem problema. Se você não me falar nenhum, não vou ter o que fazer.” **Era Falconi tentando mais uma vez ensinar algo que repete desde que começou a prestar consultoria: expor um problema é bom; ruim é tentar escondê-lo ou fazer vista grossa. Apenas quando um problema é identificado ele pode ser solucionado.\_**
 
 ### Alta rotatividade de funcionários é inaceitável numa empresa. Indica a insatisfação das pessoas com as condições de trabalho e equivale a um vazamento de informações da empresa
 
@@ -122,8 +122,9 @@ Para ilustrar esse ensinamento, ela compartilha o que ouviu de Luiz Fernando Fur
 Por quê? “Ora, porque o sargento resolveu pintar o banco e pediu prum soldado cuidar para que ninguém sentasse”, lembra Furlan. “E ele ficou até muito depois de a tinta secar. Quando não perguntamos, quando deixamos de questionar, ficamos fazendo a mesma coisa”.
 
 ---
+
 **Fonte**
 
 A Endeavor é a rede formada pelas empreendedoras e empreendedores à frente das scale-ups que mais crescem no mundo e que são grandes exemplos para o país.
 
-Link: [um-lider-para-os-lideres-regras-e-historias-que-fizeram-de-vicente-falconi-uma-referencia-na-gestao/](https://endeavor.org.br/estrategia-e-gestao/um-lider-para-os-lideres-regras-e-historias-que-fizeram-de-vicente-falconi-uma-referencia-na-gestao/)
+Link: [um-lider-para-os-lideres-regras-e-historias-que-fizeram-de-vicente-falconi-uma-referencia-na-gestao](https://endeavor.org.br/estrategia-e-gestao/um-lider-para-os-lideres-regras-e-historias-que-fizeram-de-vicente-falconi-uma-referencia-na-gestao/)

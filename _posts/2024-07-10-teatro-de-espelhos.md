@@ -6,6 +6,7 @@ tags:
   - justiça
   - sociedade
   - política
+  - virtude
 categories:
   - instituições
   - justiça

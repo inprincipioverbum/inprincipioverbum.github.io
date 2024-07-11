@@ -1,6 +1,6 @@
 ---
 title: Os Quatro Compromissos
-tags: [filosofia, personalidade, carater]
+tags: [filosofia, personalidade, carater, virtude]
 categories: [sabedoria]
 ---
 

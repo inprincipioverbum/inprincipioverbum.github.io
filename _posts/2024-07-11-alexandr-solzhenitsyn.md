@@ -20,7 +20,7 @@ O orador, Alexandr Solzhenitsyn, estava exilado da União Soviética.
   
 Em seu discurso, Soljenítsin fez uma advertência terrível ao Ocidente.  
   
-22 citações arrepiantes de seu discurso🧵 [![Imagem](https://pbs.twimg.com/media/GSJYvkYWgAE6_5n.jpg)](https://pbs.twimg.com/media/GSJYvkYWgAE6_5n.jpg)
+## 22 citações arrepiantes de seu discurso
 
 1) O socialismo de qualquer tipo e sombra leva a uma destruição total do espírito humano e a um nivelamento da humanidade até a morte.
 

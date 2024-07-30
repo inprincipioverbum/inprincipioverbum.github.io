@@ -2,6 +2,7 @@
 title: As Virtudes - Mário Ferreira dos Santos
 pubDate: 2024-06-20T19:10:51.735Z
 type: default
+author: leonardodias
 ---
 
 ## Resumo do documento sobre `As Virtudes` segundo Mário Ferreira dos Santos:

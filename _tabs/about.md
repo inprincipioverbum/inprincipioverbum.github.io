@@ -130,20 +130,7 @@ Critical analysis, organization, discipline, teamwork, concern with responsibili
   <img src="https://github-readme-streak-stats.herokuapp.com?user=araguaci&theme=blue&hide_border=true&background=FFFFFF00"/>
 </p>
 
---- 
-
-### 🌐 **Online Presence:**
-
-* [Website](https://www.artesdosul.com)
-* [GitHub](https://github.com/araguaci)
-* [Instagram](https://www.instagram.com/araguaci.andrade/)
-
-### 📧 **Contact:**
-
-* Email: [araguaci@gmail.com](mailto:araguaci@gmail.com)
-
 ---
-
 
 [![Website](https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dweb)](https://www.artesdosul.com)
 [![X Org](https://img.shields.io/badge/X_Org-%40artesdosul-1d9bf0.svg)](https://x.com/artesdosul)
@@ -152,3 +139,7 @@ Critical analysis, organization, discipline, teamwork, concern with responsibili
 [![stop-war-for-ever](https://img.shields.io/endpoint?color=purple&label=STOP&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dstop)](https://stop-war-for-ever.vercel.app)
 [![Patron](https://badgen.net/badge/icon/patreon?icon=patreon&color=orange)](https://patreon.com/artesdosul) 
 [![Buy me a coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow)](https://buymeacoffee.com/araguaci)  
+
+## 📧 **Online Presence:**
+
+* [Links](/contact)

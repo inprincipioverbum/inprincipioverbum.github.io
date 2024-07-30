@@ -109,17 +109,12 @@ Critical analysis, organization, discipline, teamwork, concern with responsibili
 
 ### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
 
-  - [FLORIPA SURF CLUB SURF SCHOOL – The school that teaches you how to surf on the beach with perfect waves for beginners](http://floripasurfclub.com.br/)
+  - [FLORIPA SURF CLUB SURF SCHOOL – The school that teaches you how to surf on the beach with perfect waves for beginners](http://floripasurfclub.com/)
   - [FLORIPA SUP CLUB - STAND UP PADDLE SURFCLUB](http://www.floripasupclub.com.br/)
   - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
   - [PROJETO SUP SOCIAL](https://supsocial.vercel.app/)
-
-### F.E.C.E.E.S.S. ☆ A.C.E.S. SC
-  
-  Uniting talents and strengthening education and sport in Santa Catarina
-
   - [🌊 Federação Catarinense de Especialistas e Escolas de Surf e Stand Up Paddle](https://escolasdesurf.org.br/)
-  - A.C.E.S. SC - Santa Catarina Association of Surf Schools SC
+  - **F.E.C.E.E.S.S. ☆ A.C.E.S. SC** - Santa Catarina FEderation & Association of Surf Schools SC
     - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
     - [🏄 Accredited Surf Schools](http://feceess.escolasdesurf.org.br/escolas/)
 
@@ -133,20 +128,7 @@ Critical analysis, organization, discipline, teamwork, concern with responsibili
   <img src="https://github-readme-streak-stats.herokuapp.com?user=araguaci&theme=blue&hide_border=true&background=FFFFFF00"/>
 </p>
 
---- 
-
-### 🌐 **Online Presence:**
-
-* [Website](https://www.artesdosul.com)
-* [GitHub](https://github.com/araguaci)
-* [Instagram](https://www.instagram.com/araguaci.andrade/)
-
-### 📧 **Contact:**
-
-* Email: [araguaci@gmail.com](mailto:araguaci@gmail.com)
-
 ---
-
 
 [![Website](https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dweb)](https://www.artesdosul.com)
 [![X Org](https://img.shields.io/badge/X_Org-%40artesdosul-1d9bf0.svg)](https://x.com/artesdosul)
@@ -155,3 +137,7 @@ Critical analysis, organization, discipline, teamwork, concern with responsibili
 [![stop-war-for-ever](https://img.shields.io/endpoint?color=purple&label=STOP&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dstop)](https://stop-war-for-ever.vercel.app)
 [![Patron](https://badgen.net/badge/icon/patreon?icon=patreon&color=orange)](https://patreon.com/artesdosul) 
 [![Buy me a coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow)](https://buymeacoffee.com/araguaci)  
+
+## 📧 **Online Presence:**
+
+* [Links](/contact)

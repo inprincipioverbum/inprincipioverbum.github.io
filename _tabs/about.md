@@ -108,13 +108,15 @@ Critical analysis, organization, discipline, teamwork, concern with responsibili
 ## Links
 
 ### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
+  
+  Uniting talents and strengthening education and sport in Santa Catarina
 
-  - [FLORIPA SURF CLUB SURF SCHOOL – The school that teaches you how to surf on the beach with perfect waves for beginners](http://floripasurfclub.com/)
-  - [FLORIPA SUP CLUB - STAND UP PADDLE SURFCLUB](http://www.floripasupclub.com.br/)
+  - [FLORIPA SURF CLUB SURF SCHOOL](http://floripasurfclub.com/)
+  - [FLORIPA SUP CLUB - STAND UP PADDLE](http://www.floripasupclub.com.br/)
   - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
   - [PROJETO SUP SOCIAL](https://supsocial.vercel.app/)
-  - [🌊 Federação Catarinense de Especialistas e Escolas de Surf e Stand Up Paddle](https://escolasdesurf.org.br/)
-  - **F.E.C.E.E.S.S. ☆ A.C.E.S. SC** - Santa Catarina FEderation & Association of Surf Schools SC
+  - [🌊 F.E.C.E.E.S.S. ☆ A.C.E.S. SC](https://escolasdesurf.org.br/)
+  - A.C.E.S. SC - Santa Catarina Association of Surf Schools SC
     - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
     - [🏄 Accredited Surf Schools](http://feceess.escolasdesurf.org.br/escolas/)
 

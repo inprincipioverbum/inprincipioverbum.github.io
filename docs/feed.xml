@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://inprincipioverbum.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2024-07-11T19:26:25-03:00</updated>
+  <updated>2024-07-30T19:45:24-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
-    <uri>https://inprincipioverbum.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://inprincipioverbum.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="pt_BR"
-    href="https://inprincipioverbum.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 In Principio Verbum </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,38 @@
 
   
   <entry>
+    <title>Pena Capital - Preço da Vida</title>
+    <link href="http://localhost:4000/posts/penaccapital-preco-da-vida/" rel="alternate" type="text/html" title="Pena Capital - Preço da Vida" />
+    <published>2024-07-23T18:21:21-03:00</published>
+  
+    <updated>2024-07-23T18:21:21-03:00</updated>
+  
+    <id>http://localhost:4000/posts/penaccapital-preco-da-vida/</id>
+    <content src="http://localhost:4000/posts/penaccapital-preco-da-vida/" />
+    <author>
+      <name>metanoia_ki</name>
+    </author>
+
+  
+    
+    <category term="sociedade" />
+    
+  
+
+  <summary>A Lei é linda. Ela nos ajuda a saber o que é o pecado, qual é o salário do pecado e a necessidade de escapar dele.</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>O discurso de início mais famoso de todo o século 20</title>
-    <link href="https://inprincipioverbum.github.io/posts/alexandr-solzhenitsyn/" rel="alternate" type="text/html" title="O discurso de início mais famoso de todo o século 20" />
+    <link href="http://localhost:4000/posts/alexandr-solzhenitsyn/" rel="alternate" type="text/html" title="O discurso de início mais famoso de todo o século 20" />
     <published>2024-07-11T18:21:21-03:00</published>
   
-    <updated>2024-07-11T18:21:21-03:00</updated>
+    <updated>2024-07-11T19:26:58-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/alexandr-solzhenitsyn/</id>
-    <content src="https://inprincipioverbum.github.io/posts/alexandr-solzhenitsyn/" />
+    <id>http://localhost:4000/posts/alexandr-solzhenitsyn/</id>
+    <content src="http://localhost:4000/posts/alexandr-solzhenitsyn/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -45,13 +69,13 @@
   
   <entry>
     <title>O Teatro dos Espelhos</title>
-    <link href="https://inprincipioverbum.github.io/posts/teatro-de-espelhos/" rel="alternate" type="text/html" title="O Teatro dos Espelhos" />
+    <link href="http://localhost:4000/posts/teatro-de-espelhos/" rel="alternate" type="text/html" title="O Teatro dos Espelhos" />
     <published>2024-07-10T18:21:21-03:00</published>
   
     <updated>2024-07-11T19:25:52-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/teatro-de-espelhos/</id>
-    <content src="https://inprincipioverbum.github.io/posts/teatro-de-espelhos/" />
+    <id>http://localhost:4000/posts/teatro-de-espelhos/</id>
+    <content src="http://localhost:4000/posts/teatro-de-espelhos/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -71,13 +95,13 @@
   
   <entry>
     <title>Desintegração Social - As Consequências da Fragmentação da Comunidade</title>
-    <link href="https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" rel="alternate" type="text/html" title="Desintegração Social - As Consequências da Fragmentação da Comunidade" />
+    <link href="http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" rel="alternate" type="text/html" title="Desintegração Social - As Consequências da Fragmentação da Comunidade" />
     <published>2024-06-30T14:48:42-03:00</published>
   
     <updated>2024-06-30T14:48:42-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/</id>
-    <content src="https://inprincipioverbum.github.io/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" />
+    <id>http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/</id>
+    <content src="http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" />
     <author>
       <name>lucasfreitas</name>
     </author>
@@ -95,13 +119,13 @@
   
   <entry>
     <title>Verdade e Justica</title>
-    <link href="https://inprincipioverbum.github.io/posts/verdade-e-justica/" rel="alternate" type="text/html" title="Verdade e Justica" />
+    <link href="http://localhost:4000/posts/verdade-e-justica/" rel="alternate" type="text/html" title="Verdade e Justica" />
     <published>2024-06-30T13:40:03-03:00</published>
   
     <updated>2024-06-30T13:40:03-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/verdade-e-justica/</id>
-    <content src="https://inprincipioverbum.github.io/posts/verdade-e-justica/" />
+    <id>http://localhost:4000/posts/verdade-e-justica/</id>
+    <content src="http://localhost:4000/posts/verdade-e-justica/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -113,30 +137,6 @@
   
 
   <summary>A busca pela verdade é uma constante na história da humanidade.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>O medo, a dúvida e a descrença</title>
-    <link href="https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/" rel="alternate" type="text/html" title="O medo, a dúvida e a descrença" />
-    <published>2024-06-26T16:33:37-03:00</published>
-  
-    <updated>2024-06-26T16:33:37-03:00</updated>
-  
-    <id>https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/</id>
-    <content src="https://inprincipioverbum.github.io/posts/o-medo-a-duvida-e-a-descrenca/" />
-    <author>
-      <name>mainframemind</name>
-    </author>
-
-  
-    
-    <category term="sabedoria" />
-    
-  
-
-  <summary>No labirinto intrincado da Matrix, três forças atuam como correntes invisíveis, prendendo as almas e impedindo-as de alcançar sua verdadeira potencialidade: o medo, a dúvida e a descrença.</summary>
 
   </entry>
 

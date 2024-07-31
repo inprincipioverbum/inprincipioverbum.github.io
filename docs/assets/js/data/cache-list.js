@@ -26,8 +26,6 @@ const include = [
   
     '/about/',
   
-    '/contact/',
-  
 
 
   /* --- Icons --- */'/assets/img/favicons/favicon.ico',

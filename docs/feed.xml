@@ -1,33 +1,129 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://inprincipioverbum.github.io/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2024-07-30T19:45:24-03:00</updated>
+  <updated>2025-02-24T19:03:44-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://inprincipioverbum.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://inprincipioverbum.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="pt_BR"
-    href="http://localhost:4000/"/>
-  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
-  <rights> © 2024 In Principio Verbum </rights>
+    href="https://inprincipioverbum.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 In Principio Verbum </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
+    <title>A Janela de Overton</title>
+    <link href="https://inprincipioverbum.github.io/posts/janela-de-overton/" rel="alternate" type="text/html" title="A Janela de Overton" />
+    <published>2025-02-24T05:08:08-03:00</published>
+  
+    <updated>2025-02-24T05:08:08-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/janela-de-overton/</id>
+    <content src="https://inprincipioverbum.github.io/posts/janela-de-overton/" />
+    <author>
+      <name>araguaci</name>
+    </author>
+
+  
+    
+    <category term="manipulação" />
+    
+  
+
+  <summary>A Janela de Overton, cunhada por Joseph P. Overton nos anos 1990, é uma estrutura que explica como ideias ganham aceitação pública.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Ensinamentos de São Tomás de Aquino</title>
+    <link href="https://inprincipioverbum.github.io/posts/ensinamentos-de-sao-tomas-de-aquino/" rel="alternate" type="text/html" title="Ensinamentos de São Tomás de Aquino" />
+    <published>2025-01-09T22:01:01-03:00</published>
+  
+    <updated>2025-01-09T22:01:01-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/ensinamentos-de-sao-tomas-de-aquino/</id>
+    <content src="https://inprincipioverbum.github.io/posts/ensinamentos-de-sao-tomas-de-aquino/" />
+    <author>
+      <name>araguaci</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>5 remédios contra a tristeza</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Gaslighting</title>
+    <link href="https://inprincipioverbum.github.io/posts/gaslighting/" rel="alternate" type="text/html" title="Gaslighting" />
+    <published>2024-12-27T22:01:01-03:00</published>
+  
+    <updated>2024-12-27T22:01:01-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/gaslighting/</id>
+    <content src="https://inprincipioverbum.github.io/posts/gaslighting/" />
+    <author>
+      <name>araguaci</name>
+    </author>
+
+  
+    
+    <category term="manipulação" />
+    
+  
+
+  <summary>Impacto Gaslighting pode levar a danos psicológicos significativos, incluindo Perda de autoestima.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>O Processo Energético e Vibracional do Ser Humano</title>
+    <link href="https://inprincipioverbum.github.io/posts/quatro-elementos/" rel="alternate" type="text/html" title="O Processo Energético e Vibracional do Ser Humano" />
+    <published>2024-07-31T01:00:06-03:00</published>
+  
+    <updated>2024-07-31T01:00:06-03:00</updated>
+  
+    <id>https://inprincipioverbum.github.io/posts/quatro-elementos/</id>
+    <content src="https://inprincipioverbum.github.io/posts/quatro-elementos/" />
+    <author>
+      <name>In Principio Verbum</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>Apontamentos sobre energia, corpo, mente e alma e exemplos científicos</summary>
+
+  </entry>
+
+  
+  <entry>
     <title>Pena Capital - Preço da Vida</title>
-    <link href="http://localhost:4000/posts/penaccapital-preco-da-vida/" rel="alternate" type="text/html" title="Pena Capital - Preço da Vida" />
+    <link href="https://inprincipioverbum.github.io/posts/penaccapital-preco-da-vida/" rel="alternate" type="text/html" title="Pena Capital - Preço da Vida" />
     <published>2024-07-23T18:21:21-03:00</published>
   
     <updated>2024-07-23T18:21:21-03:00</updated>
   
-    <id>http://localhost:4000/posts/penaccapital-preco-da-vida/</id>
-    <content src="http://localhost:4000/posts/penaccapital-preco-da-vida/" />
+    <id>https://inprincipioverbum.github.io/posts/penaccapital-preco-da-vida/</id>
+    <content src="https://inprincipioverbum.github.io/posts/penaccapital-preco-da-vida/" />
     <author>
       <name>metanoia_ki</name>
     </author>
@@ -39,104 +135,6 @@
   
 
   <summary>A Lei é linda. Ela nos ajuda a saber o que é o pecado, qual é o salário do pecado e a necessidade de escapar dele.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>O discurso de início mais famoso de todo o século 20</title>
-    <link href="http://localhost:4000/posts/alexandr-solzhenitsyn/" rel="alternate" type="text/html" title="O discurso de início mais famoso de todo o século 20" />
-    <published>2024-07-11T18:21:21-03:00</published>
-  
-    <updated>2024-07-11T19:26:58-03:00</updated>
-  
-    <id>http://localhost:4000/posts/alexandr-solzhenitsyn/</id>
-    <content src="http://localhost:4000/posts/alexandr-solzhenitsyn/" />
-    <author>
-      <name>In Principio Verbum</name>
-    </author>
-
-  
-    
-    <category term="sociedade" />
-    
-  
-
-  <summary>O orador, Alexandr Solzhenitsyn, estava exilado da União Soviética. Em seu discurso, Soljenítsin fez uma advertência terrível ao Ocidente.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>O Teatro dos Espelhos</title>
-    <link href="http://localhost:4000/posts/teatro-de-espelhos/" rel="alternate" type="text/html" title="O Teatro dos Espelhos" />
-    <published>2024-07-10T18:21:21-03:00</published>
-  
-    <updated>2024-07-11T19:25:52-03:00</updated>
-  
-    <id>http://localhost:4000/posts/teatro-de-espelhos/</id>
-    <content src="http://localhost:4000/posts/teatro-de-espelhos/" />
-    <author>
-      <name>In Principio Verbum</name>
-    </author>
-
-  
-    
-    <category term="instituições" />
-    
-    <category term="justiça" />
-    
-  
-
-  <summary>A Farsa da Justiça e o Mercado das Falsas Virtudes.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Desintegração Social - As Consequências da Fragmentação da Comunidade</title>
-    <link href="http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" rel="alternate" type="text/html" title="Desintegração Social - As Consequências da Fragmentação da Comunidade" />
-    <published>2024-06-30T14:48:42-03:00</published>
-  
-    <updated>2024-06-30T14:48:42-03:00</updated>
-  
-    <id>http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/</id>
-    <content src="http://localhost:4000/posts/desintegracao-social-as-consequencias-da-fragmentacao-da-comunidade/" />
-    <author>
-      <name>lucasfreitas</name>
-    </author>
-
-  
-    
-    <category term="instituições" />
-    
-  
-
-  <summary>Será que estamos nos afastando cada vez mais uns dos outros?</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Verdade e Justica</title>
-    <link href="http://localhost:4000/posts/verdade-e-justica/" rel="alternate" type="text/html" title="Verdade e Justica" />
-    <published>2024-06-30T13:40:03-03:00</published>
-  
-    <updated>2024-06-30T13:40:03-03:00</updated>
-  
-    <id>http://localhost:4000/posts/verdade-e-justica/</id>
-    <content src="http://localhost:4000/posts/verdade-e-justica/" />
-    <author>
-      <name>In Principio Verbum</name>
-    </author>
-
-  
-    
-    <category term="sabedoria" />
-    
-  
-
-  <summary>A busca pela verdade é uma constante na história da humanidade.</summary>
 
   </entry>
 

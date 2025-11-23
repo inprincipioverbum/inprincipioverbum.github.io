@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://inprincipioverbum.github.io/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2025-11-23T17:02:11-03:00</updated>
+  <updated>2025-11-23T17:13:42-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://inprincipioverbum.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://inprincipioverbum.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="pt_BR"
-    href="http://localhost:4000/"/>
+    href="https://inprincipioverbum.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 In Principio Verbum </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Preservando a Integridade Mental em Tempos de Caos: Ética e Moral como Bússola</title>
-    <link href="http://localhost:4000/posts/preservando-integridade-mental-em-tempos-de-caos/" rel="alternate" type="text/html" title="Preservando a Integridade Mental em Tempos de Caos: Ética e Moral como Bússola" />
+    <link href="https://inprincipioverbum.github.io/posts/preservando-integridade-mental-em-tempos-de-caos/" rel="alternate" type="text/html" title="Preservando a Integridade Mental em Tempos de Caos: Ética e Moral como Bússola" />
     <published>2025-11-23T05:00:00-03:00</published>
   
     <updated>2025-11-23T05:00:00-03:00</updated>
   
-    <id>http://localhost:4000/posts/preservando-integridade-mental-em-tempos-de-caos/</id>
-    <content src="http://localhost:4000/posts/preservando-integridade-mental-em-tempos-de-caos/" />
+    <id>https://inprincipioverbum.github.io/posts/preservando-integridade-mental-em-tempos-de-caos/</id>
+    <content src="https://inprincipioverbum.github.io/posts/preservando-integridade-mental-em-tempos-de-caos/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>Chokunin Katag: O Segredo Japonês para a Excelência Duradoura</title>
-    <link href="http://localhost:4000/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/" rel="alternate" type="text/html" title="Chokunin Katag: O Segredo Japonês para a Excelência Duradoura" />
+    <link href="https://inprincipioverbum.github.io/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/" rel="alternate" type="text/html" title="Chokunin Katag: O Segredo Japonês para a Excelência Duradoura" />
     <published>2025-11-22T05:08:08-03:00</published>
   
     <updated>2025-11-22T05:08:08-03:00</updated>
   
-    <id>http://localhost:4000/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/</id>
-    <content src="http://localhost:4000/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/" />
+    <id>https://inprincipioverbum.github.io/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/</id>
+    <content src="https://inprincipioverbum.github.io/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -69,13 +69,13 @@
   
   <entry>
     <title>7 Métodos para Desenvolver Disciplina Inabalável e Transformar Sua Vida</title>
-    <link href="http://localhost:4000/posts/7-metodos-para-desenvolver-disciplina-inabalavel/" rel="alternate" type="text/html" title="7 Métodos para Desenvolver Disciplina Inabalável e Transformar Sua Vida" />
+    <link href="https://inprincipioverbum.github.io/posts/7-metodos-para-desenvolver-disciplina-inabalavel/" rel="alternate" type="text/html" title="7 Métodos para Desenvolver Disciplina Inabalável e Transformar Sua Vida" />
     <published>2025-11-11T05:08:08-03:00</published>
   
     <updated>2025-11-11T05:08:08-03:00</updated>
   
-    <id>http://localhost:4000/posts/7-metodos-para-desenvolver-disciplina-inabalavel/</id>
-    <content src="http://localhost:4000/posts/7-metodos-para-desenvolver-disciplina-inabalavel/" />
+    <id>https://inprincipioverbum.github.io/posts/7-metodos-para-desenvolver-disciplina-inabalavel/</id>
+    <content src="https://inprincipioverbum.github.io/posts/7-metodos-para-desenvolver-disciplina-inabalavel/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -93,13 +93,13 @@
   
   <entry>
     <title>Por que o lobo solitário é um símbolo de coragem e independência</title>
-    <link href="http://localhost:4000/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/" rel="alternate" type="text/html" title="Por que o lobo solitário é um símbolo de coragem e independência" />
+    <link href="https://inprincipioverbum.github.io/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/" rel="alternate" type="text/html" title="Por que o lobo solitário é um símbolo de coragem e independência" />
     <published>2025-08-08T05:08:08-03:00</published>
   
     <updated>2025-08-08T05:08:08-03:00</updated>
   
-    <id>http://localhost:4000/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/</id>
-    <content src="http://localhost:4000/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/" />
+    <id>https://inprincipioverbum.github.io/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/</id>
+    <content src="https://inprincipioverbum.github.io/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -117,13 +117,13 @@
   
   <entry>
     <title>42 melhores dicas de autoaperfeiçoamento</title>
-    <link href="http://localhost:4000/posts/42-melhores-dicas-de-autoaperfeicoamento/" rel="alternate" type="text/html" title="42 melhores dicas de autoaperfeiçoamento" />
+    <link href="https://inprincipioverbum.github.io/posts/42-melhores-dicas-de-autoaperfeicoamento/" rel="alternate" type="text/html" title="42 melhores dicas de autoaperfeiçoamento" />
     <published>2025-02-27T05:08:08-03:00</published>
   
     <updated>2025-02-27T05:08:08-03:00</updated>
   
-    <id>http://localhost:4000/posts/42-melhores-dicas-de-autoaperfeicoamento/</id>
-    <content src="http://localhost:4000/posts/42-melhores-dicas-de-autoaperfeicoamento/" />
+    <id>https://inprincipioverbum.github.io/posts/42-melhores-dicas-de-autoaperfeicoamento/</id>
+    <content src="https://inprincipioverbum.github.io/posts/42-melhores-dicas-de-autoaperfeicoamento/" />
     <author>
       <name>In Principio Verbum</name>
     </author>

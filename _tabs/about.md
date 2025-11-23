@@ -111,23 +111,23 @@ Critical analysis, organization, discipline, teamwork, concern with responsibili
   
   Uniting talents and strengthening education and sport in Santa Catarina
 
-  - [FLORIPA SURF CLUB SURF SCHOOL](http://floripasurfclub.com/)
-  - [FLORIPA SUP CLUB - STAND UP PADDLE](http://www.floripasupclub.com.br/)
-  - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
+  - [FLORIPA SURF CLUB SURF SCHOOL](https://floripasurfclub.com/)
+  - [FLORIPA SUP CLUB - STAND UP PADDLE](https://www.floripasupclub.com.br/)
+  - [CENTRAL DE AVENTURAS](https://centraldeaventuras.com.br/)
   - [PROJETO SUP SOCIAL](https://supsocial.vercel.app/)
   - [🌊 F.E.C.E.E.S.S. ☆ A.C.E.S. SC](https://escolasdesurf.org.br/)
   - A.C.E.S. SC - Santa Catarina Association of Surf Schools SC
-    - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
-    - [🏄 Accredited Surf Schools](http://feceess.escolasdesurf.org.br/escolas/)
+    - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](https://feceess.escolasdesurf.org.br/)
+    - [🏄 Accredited Surf Schools](https://feceess.escolasdesurf.org.br/escolas/)
 
 ---
 
 <p>
-  <img width="100%" src ="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&count_private=true&theme=blue&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&count_private=true&theme=blue&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00" alt="GitHub Statistics for araguaci"/>
   
-  <img width="100%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&hide_border=true&theme=blue&bg_color=FFFFFF00&langs_count=6&hide=jupyter%20notebook,tex,css,php"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&hide_border=true&theme=blue&bg_color=FFFFFF00&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages for araguaci"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=araguaci&theme=blue&hide_border=true&background=FFFFFF00"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=araguaci&theme=blue&hide_border=true&background=FFFFFF00" alt="GitHub Streak Stats for araguaci"/>
 </p>
 
 ---

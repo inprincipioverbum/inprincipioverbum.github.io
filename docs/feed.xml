@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2025-11-23T16:23:07-03:00</updated>
+  <updated>2025-11-23T17:02:11-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Preservando a Integridade Mental em Tempos de Caos: Ética e Moral como Bússola</title>
+    <link href="http://localhost:4000/posts/preservando-integridade-mental-em-tempos-de-caos/" rel="alternate" type="text/html" title="Preservando a Integridade Mental em Tempos de Caos: Ética e Moral como Bússola" />
+    <published>2025-11-23T05:00:00-03:00</published>
+  
+    <updated>2025-11-23T05:00:00-03:00</updated>
+  
+    <id>http://localhost:4000/posts/preservando-integridade-mental-em-tempos-de-caos/</id>
+    <content src="http://localhost:4000/posts/preservando-integridade-mental-em-tempos-de-caos/" />
+    <author>
+      <name>In Principio Verbum</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>Descubra como preservar sua integridade mental em tempos de caos usando a ética e a moral como bússola para navegar desinformação e manipulação.</summary>
+
+  </entry>
 
   
   <entry>
@@ -111,30 +135,6 @@
   
 
   <summary>Sempre há algo sobre nós mesmos que podemos melhorar. O potencial humano é ilimitado, por isso é impossível chegar a um ponto sem crescimento.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Qual a finalidade do homem?</title>
-    <link href="http://localhost:4000/posts/qual-a-finalidade-do-homem/" rel="alternate" type="text/html" title="Qual a finalidade do homem?" />
-    <published>2025-02-27T05:08:08-03:00</published>
-  
-    <updated>2025-02-27T05:08:08-03:00</updated>
-  
-    <id>http://localhost:4000/posts/qual-a-finalidade-do-homem/</id>
-    <content src="http://localhost:4000/posts/qual-a-finalidade-do-homem/" />
-    <author>
-      <name>araguaci</name>
-    </author>
-
-  
-    
-    <category term="sabedoria" />
-    
-  
-
-  <summary>O fim dum ser é aquele para que ele tende sempre e dum modo necessário. O homem tende sempre e necessariamente para a felicidade. Possuí-la, será o seu fim.</summary>
 
   </entry>
 

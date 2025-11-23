@@ -899,3 +899,6 @@ altura="500px">
 - [PageSpeed Insights](https://pagespeed.web.dev/): Uma ferramenta para verificar o desempenho da rede, fornecer um relatório sobre como melhorar a rede e melhorar a velocidade da rede.
 - [Coolors](https://coolors.co/), [Color Hunt](https://www.colorhunt.co/): Estação de cores on-line disponível, esquemas de cores recomendados disponíveis desde então.
 </div>
+
+
+

@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://inprincipioverbum.github.io/</id>
+  <id>http://localhost:4000/</id>
   <title>In Principio Verbum</title>
   <subtitle>No princípio era o Verbo. Contemplando a origem e o propósito da existência.</subtitle>
-  <updated>2025-02-24T19:03:44-03:00</updated>
+  <updated>2025-11-23T16:23:07-03:00</updated>
   <author>
     <name>In Principio Verbum</name>
-    <uri>https://inprincipioverbum.github.io/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://inprincipioverbum.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="pt_BR"
-    href="https://inprincipioverbum.github.io/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 In Principio Verbum </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,86 +20,14 @@
 
   
   <entry>
-    <title>A Janela de Overton</title>
-    <link href="https://inprincipioverbum.github.io/posts/janela-de-overton/" rel="alternate" type="text/html" title="A Janela de Overton" />
-    <published>2025-02-24T05:08:08-03:00</published>
+    <title>Chokunin Katag: O Segredo Japonês para a Excelência Duradoura</title>
+    <link href="http://localhost:4000/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/" rel="alternate" type="text/html" title="Chokunin Katag: O Segredo Japonês para a Excelência Duradoura" />
+    <published>2025-11-22T05:08:08-03:00</published>
   
-    <updated>2025-02-24T05:08:08-03:00</updated>
+    <updated>2025-11-22T05:08:08-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/janela-de-overton/</id>
-    <content src="https://inprincipioverbum.github.io/posts/janela-de-overton/" />
-    <author>
-      <name>araguaci</name>
-    </author>
-
-  
-    
-    <category term="manipulação" />
-    
-  
-
-  <summary>A Janela de Overton, cunhada por Joseph P. Overton nos anos 1990, é uma estrutura que explica como ideias ganham aceitação pública.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Ensinamentos de São Tomás de Aquino</title>
-    <link href="https://inprincipioverbum.github.io/posts/ensinamentos-de-sao-tomas-de-aquino/" rel="alternate" type="text/html" title="Ensinamentos de São Tomás de Aquino" />
-    <published>2025-01-09T22:01:01-03:00</published>
-  
-    <updated>2025-01-09T22:01:01-03:00</updated>
-  
-    <id>https://inprincipioverbum.github.io/posts/ensinamentos-de-sao-tomas-de-aquino/</id>
-    <content src="https://inprincipioverbum.github.io/posts/ensinamentos-de-sao-tomas-de-aquino/" />
-    <author>
-      <name>araguaci</name>
-    </author>
-
-  
-    
-    <category term="sabedoria" />
-    
-  
-
-  <summary>5 remédios contra a tristeza</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Gaslighting</title>
-    <link href="https://inprincipioverbum.github.io/posts/gaslighting/" rel="alternate" type="text/html" title="Gaslighting" />
-    <published>2024-12-27T22:01:01-03:00</published>
-  
-    <updated>2024-12-27T22:01:01-03:00</updated>
-  
-    <id>https://inprincipioverbum.github.io/posts/gaslighting/</id>
-    <content src="https://inprincipioverbum.github.io/posts/gaslighting/" />
-    <author>
-      <name>araguaci</name>
-    </author>
-
-  
-    
-    <category term="manipulação" />
-    
-  
-
-  <summary>Impacto Gaslighting pode levar a danos psicológicos significativos, incluindo Perda de autoestima.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>O Processo Energético e Vibracional do Ser Humano</title>
-    <link href="https://inprincipioverbum.github.io/posts/quatro-elementos/" rel="alternate" type="text/html" title="O Processo Energético e Vibracional do Ser Humano" />
-    <published>2024-07-31T01:00:06-03:00</published>
-  
-    <updated>2024-07-31T01:00:06-03:00</updated>
-  
-    <id>https://inprincipioverbum.github.io/posts/quatro-elementos/</id>
-    <content src="https://inprincipioverbum.github.io/posts/quatro-elementos/" />
+    <id>http://localhost:4000/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/</id>
+    <content src="http://localhost:4000/posts/chokunin-katag-o-segredo-japones-para-excelencia-duradoura/" />
     <author>
       <name>In Principio Verbum</name>
     </author>
@@ -110,31 +38,103 @@
     
   
 
-  <summary>Apontamentos sobre energia, corpo, mente e alma e exemplos científicos</summary>
+  <summary>Descubra a filosofia japonesa Chokunin Katag e aprenda como a obsessão pelos detalhes, a persistência e a melhoria contínua podem transformar sua vida e carreira.</summary>
 
   </entry>
 
   
   <entry>
-    <title>Pena Capital - Preço da Vida</title>
-    <link href="https://inprincipioverbum.github.io/posts/penaccapital-preco-da-vida/" rel="alternate" type="text/html" title="Pena Capital - Preço da Vida" />
-    <published>2024-07-23T18:21:21-03:00</published>
+    <title>7 Métodos para Desenvolver Disciplina Inabalável e Transformar Sua Vida</title>
+    <link href="http://localhost:4000/posts/7-metodos-para-desenvolver-disciplina-inabalavel/" rel="alternate" type="text/html" title="7 Métodos para Desenvolver Disciplina Inabalável e Transformar Sua Vida" />
+    <published>2025-11-11T05:08:08-03:00</published>
   
-    <updated>2024-07-23T18:21:21-03:00</updated>
+    <updated>2025-11-11T05:08:08-03:00</updated>
   
-    <id>https://inprincipioverbum.github.io/posts/penaccapital-preco-da-vida/</id>
-    <content src="https://inprincipioverbum.github.io/posts/penaccapital-preco-da-vida/" />
+    <id>http://localhost:4000/posts/7-metodos-para-desenvolver-disciplina-inabalavel/</id>
+    <content src="http://localhost:4000/posts/7-metodos-para-desenvolver-disciplina-inabalavel/" />
     <author>
-      <name>metanoia_ki</name>
+      <name>In Principio Verbum</name>
     </author>
 
   
     
-    <category term="sociedade" />
+    <category term="sabedoria" />
     
   
 
-  <summary>A Lei é linda. Ela nos ajuda a saber o que é o pecado, qual é o salário do pecado e a necessidade de escapar dele.</summary>
+  <summary>Descubra os 7 métodos para desenvolver disciplina inabalável e transformar sua vida com lições inspiradas em Miyamoto Musashi, o maior samurai da história.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Por que o lobo solitário é um símbolo de coragem e independência</title>
+    <link href="http://localhost:4000/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/" rel="alternate" type="text/html" title="Por que o lobo solitário é um símbolo de coragem e independência" />
+    <published>2025-08-08T05:08:08-03:00</published>
+  
+    <updated>2025-08-08T05:08:08-03:00</updated>
+  
+    <id>http://localhost:4000/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/</id>
+    <content src="http://localhost:4000/posts/por-que-o-lobo-solitario-e-um-simbolo-de-coragem-e-independencia-Antes-de-Morrer/" />
+    <author>
+      <name>In Principio Verbum</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>Descubra por que o lobo solitário é um símbolo de coragem e independência. Explore as características que fazem deste animal um ícone de força interior e autossuficiência.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>42 melhores dicas de autoaperfeiçoamento</title>
+    <link href="http://localhost:4000/posts/42-melhores-dicas-de-autoaperfeicoamento/" rel="alternate" type="text/html" title="42 melhores dicas de autoaperfeiçoamento" />
+    <published>2025-02-27T05:08:08-03:00</published>
+  
+    <updated>2025-02-27T05:08:08-03:00</updated>
+  
+    <id>http://localhost:4000/posts/42-melhores-dicas-de-autoaperfeicoamento/</id>
+    <content src="http://localhost:4000/posts/42-melhores-dicas-de-autoaperfeicoamento/" />
+    <author>
+      <name>In Principio Verbum</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>Sempre há algo sobre nós mesmos que podemos melhorar. O potencial humano é ilimitado, por isso é impossível chegar a um ponto sem crescimento.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Qual a finalidade do homem?</title>
+    <link href="http://localhost:4000/posts/qual-a-finalidade-do-homem/" rel="alternate" type="text/html" title="Qual a finalidade do homem?" />
+    <published>2025-02-27T05:08:08-03:00</published>
+  
+    <updated>2025-02-27T05:08:08-03:00</updated>
+  
+    <id>http://localhost:4000/posts/qual-a-finalidade-do-homem/</id>
+    <content src="http://localhost:4000/posts/qual-a-finalidade-do-homem/" />
+    <author>
+      <name>araguaci</name>
+    </author>
+
+  
+    
+    <category term="sabedoria" />
+    
+  
+
+  <summary>O fim dum ser é aquele para que ele tende sempre e dum modo necessário. O homem tende sempre e necessariamente para a felicidade. Possuí-la, será o seu fim.</summary>
 
   </entry>
 

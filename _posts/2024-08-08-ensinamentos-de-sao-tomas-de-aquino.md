@@ -1,7 +1,7 @@
 ---
 title: Ensinamentos de São Tomás de Aquino
 author: araguaci
-date: 2025-01-10T01:01:01.001Z
+date: 2024-08-08T01:01:01.001Z
 categories:
   - sabedoria
 tags:

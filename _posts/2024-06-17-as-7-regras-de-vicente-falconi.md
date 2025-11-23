@@ -13,7 +13,7 @@ type: default
 
 **Para muita gente, o professor Falconi é sinônimo de eficiência em gestão. Conheça mais sobre os conceitos que até hoje norteiam algumas das principais empresas do país.**
 
-Consultor, professor, mestre, guru: são muitos os epítetos pelos quais Vicente Falconi é conhecido. Hoje tido como um dos homens mais poderosos do país (de acordo com várias listas, [como esta](http://ultimosegundo.ig.com.br/os-60-mais-poderosos/), do Último Segundo), o fundador da consultoria que leva seu sobrenome responde por uma longa e movimentada trajetória. Uma história de aprendizados, de equívocos, de desafios — e, claro, de conquistas, o que sem dúvida justifica o prestígio de que hoje ele desfruta.
+Consultor, professor, mestre, guru: são muitos os epítetos pelos quais Vicente Falconi é conhecido. Hoje tido como um dos homens mais poderosos do país (de acordo com várias listas, [como esta](https://ultimosegundo.ig.com.br/os-60-mais-poderosos/), do Último Segundo), o fundador da consultoria que leva seu sobrenome responde por uma longa e movimentada trajetória. Uma história de aprendizados, de equívocos, de desafios — e, claro, de conquistas, o que sem dúvida justifica o prestígio de que hoje ele desfruta.
 
 Recentemente, a escritora Cristiane Correa (autora de “Sonho Grande” e de “Abilio — Determinado, ambicioso, polêmico”), teve a oportunidade de transformar essa trajetória no livro “[Vicente Falconi — O que importa é resultado](https://www.saraiva.com.br/vicente-falconi-o-que-importa-e-resultado-9874145.html)”. Do momento em que ele voltou do Japão, no começo dos anos 80, com a mala carregada de métodos e conceitos que disseminou entre empresário brasileiros, até se tornar o mais influente consultor na esfera pública, está tudo lá.
 

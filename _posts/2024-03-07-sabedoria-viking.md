@@ -18,9 +18,9 @@ Então, veja as melhores citações vikings antigas, completas com explicações
 
 Os vikings eram um povo germânico que viveu na Escandinávia do século VIII ao XI. Eles foram idolatrados, glorificados e imortalizados ao longo da história, mas nos últimos anos, por programas de TV como **Vikings** e filmes como **How to Train Your Dragon**. E essas citações viking cumprem as imagens que os vikings conjuram.. Eles são profundos, profundos e perspicazes. Eles cobrem uma ampla gama de tópicos / interesses, mas todos inspiram você. seja um homem melhor (de uma forma ou de outra).
 
-- [146 Melhores Citações & Provérbios Viking](#146-melhores-citacoes-proverbios-viking)
-- [70 Citações e Provérbios Nórdicos](#70-citacoes-e-proverbios-nordicos)
-- [26 Melhores Citações de Havamal](#26-melhores-citacoes-de-havamal)
+- [146 Melhores Citações & Provérbios Viking](#146-melhores-citações--provérbios-viking)
+- [70 Citações e Provérbios Nórdicos](#70-citações-e-provérbios-nórdicos)
+- [26 Melhores Citações de Havamal](#26-melhores-citações-de-havamal)
 
 ### 1. Muita cerveja e o coração de um homem estão abertos para todos verem.
 
